@@ -1,2 +1,2 @@
-# MQTTScheduler
-### Runtime analysis of recovery from DoS attacks against MQTT using naive and MTPT (Minimum Tardy Processing Time) schedulers
+# MQTT
+### Enhancing DoS Attack Recovery in MQTT Brokers for IoT Systems through Efficient Scheduling Algorithms
